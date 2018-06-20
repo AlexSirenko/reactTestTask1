@@ -3,3 +3,5 @@ Task was taken from : https://gist.github.com/evgenyrodionov/bbe9b80bebd8e4b7eb8
 Instead of that api I used this :  https://jsonplaceholder.typicode.com/comments
 There were used next technologies:
 React, Redux, Redux-Thunk, SCSS
+
+for launching that project you need only dowload folder public and run index.html
