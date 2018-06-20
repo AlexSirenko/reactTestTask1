@@ -4,4 +4,4 @@ Instead of that api I used this :  https://jsonplaceholder.typicode.com/comments
 There were used next technologies:
 React, Redux, Redux-Thunk, SCSS
 
-for launching that project you need only dowload folder public and run index.html
+for launching that task you need only dowload folder public and run index.html
